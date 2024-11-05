@@ -1,0 +1,57 @@
+.foto-perfil{
+    border-radius: 100%;
+    max-width: 200px;
+    border: 3px solid white;
+    margin-left: 43%;
+}
+
+body{
+    background-color: rgb(227, 196, 255);
+}
+
+.titulo{
+    background-color: blueviolet;
+    color: whitesmoke;
+    font-size: 24px;
+    font-family: sans-serif;
+    display: flex;
+}
+
+.nome{
+    text-decoration: overline;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color:blueviolet;
+    text-align: center;
+    font-weight: bold;
+}
+
+a{
+    font-style: italic;
+    padding: 0 0 0 10px;
+}
+
+a:hover {
+    color: hotpink;
+    text-decoration: underline;
+}
+
+.texto{
+    font-style: italic;
+}
+
+.curso{
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.edu{
+    font-weight: bold;
+}
+
+.fim {
+    background-color: blueviolet;
+    color: whitesmoke;
+    text-align: center; 
+    padding: 10px; 
+}
